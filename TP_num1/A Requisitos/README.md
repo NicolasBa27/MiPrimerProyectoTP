@@ -1,6 +1,3 @@
-![iotfo](https://github.com/NicolasBa27/MiPrimerProyectoTP/assets/166423605/ea403b56-76cb-4f3b-865a-a444946a5b74)
-
-
 # REQUISITOS DEL TRABAJO PRACTICO
 
 ## Objetivos
