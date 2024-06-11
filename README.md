@@ -5,13 +5,14 @@
 **↓ Trabajos Prácticos ↓**  
 TP-Nº 1: Finalizado.  
 TP-Nº 2: Finalizado.  
-TP-Nº 3: En proceso.
+TP-Nº 3: Finalizado.
+Tp-Nº 4: En proceso.
 
-**Ultimo trabajo entregado**: TP-Nº2.
+**Ultimo trabajo entregado**: TP-Nº3.
 
 # Proyecto Integrador I - TST - 2024
-**Trabajos Practicos de la materia "Proyecto Integrador I"**
 
+**Trabajos Practicos de la materia "Proyecto Integrador I"**
 
 **Profesor →** Gonzalo Vera.  
 **Alumno →** Nicolás Barrionuevo.
