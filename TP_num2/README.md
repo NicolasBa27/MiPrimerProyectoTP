@@ -8,3 +8,5 @@
 
 **Profesor** Gonzalo Vera.  
 **Alumno** Nicolás Barrionuevo.
+
+![image](./recursos/imagenes/recorte.png)

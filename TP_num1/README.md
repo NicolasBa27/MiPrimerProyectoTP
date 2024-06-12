@@ -1,4 +1,4 @@
-![alt text](./recursos/imagenes/ispc.png)
+![image](./recursos/imagenes/ispc.png)
 
 # Apartados:
 
@@ -9,3 +9,5 @@
 **D→** Primer repositorio y proyecto a modo de ejemplo en GitHub.
 
 **recursos→** Imagenes utilizadas.
+
+![image](./recursos/imagenes/descarga.png)

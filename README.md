@@ -5,12 +5,12 @@
 **↓ Trabajos Prácticos ↓**  
 TP-Nº 1: Finalizado.  
 TP-Nº 2: Finalizado.  
-TP-Nº 3: Finalizado.
+TP-Nº 3: Finalizado.  
 Tp-Nº 4: En proceso.
 
 **Ultimo trabajo entregado**: TP-Nº3.
 
-# Proyecto Integrador I - TST - 2024
+## Proyecto Integrador I - TST - 2024
 
 **Trabajos Practicos de la materia "Proyecto Integrador I"**
 

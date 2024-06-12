@@ -2,8 +2,8 @@
 
 ## Trabajo Practico Nº 3
 
-### Ejercicio 1: Encender un LED
+### Ejercicio 3: Secuencia de LEDs
 
-Enciende el led1 conectado al GPIO18 de forma continua.
+Crea una secuencia que encienda los LEDs del led1 al led3 de forma sucesiva, cada uno durante 500ms.
 
-![image](./assets/prototipo.PNG)
+![image](./assets/ejercicio3.PNG)

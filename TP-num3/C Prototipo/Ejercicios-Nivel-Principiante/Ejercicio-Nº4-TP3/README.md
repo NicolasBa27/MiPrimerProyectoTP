@@ -2,8 +2,8 @@
 
 ## Trabajo Practico Nº 3
 
-### Ejercicio 1: Encender un LED
+### Ejercicio 4: Control de LED con botón
 
-Enciende el led1 conectado al GPIO18 de forma continua.
+Usa el btn1 para encender el led1 mientras se mantenga presionado.
 
-![image](./assets/prototipo.PNG)
+![image](./assets/ejercicio4.PNG)
